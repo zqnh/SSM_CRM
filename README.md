@@ -9,7 +9,12 @@
 #### 3.前端界面
 
 ##### 1.用户信息添加
+![img](https://github.com/zqnh/SSM_CRM/blob/master/img/2.jpg)
 ##### 2.用户信息删除
+![img](https://github.com/zqnh/SSM_CRM/blob/master/img/4.jpg)
 ##### 3.用户信息更新
+![img](https://github.com/zqnh/SSM_CRM/blob/master/img/3.jpg)
 ##### 4.用户信息查找
+![img](https://github.com/zqnh/SSM_CRM/blob/master/img/1.jpg)
 ##### 5.用户信息分页
+![img](https://github.com/zqnh/SSM_CRM/blob/master/img/5.jpg)
